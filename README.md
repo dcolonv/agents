@@ -1,2 +1,2 @@
 # agents
-A collection of JS Agents and Agentics 
+🤖 A collection of JS Agents and Agentics 
